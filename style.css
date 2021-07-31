@@ -96,17 +96,19 @@ span{
     color: black;
 }
 .my-recipe{
-    width: 24%;
-    margin: 2%;
-    padding-left: 40px;
-    padding-right: 30px;
+    width: 27%;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 20px;
     box-shadow: 10px 10px 35px gray;
 }
 .my-recipe img{
     height: 200px;
-    width: 320px;
-    padding-top: 8%;
+    width: 300px;
+    padding-top: 20px;
+    border: 5px;
+    border-radius: 40px;
     
     
 }
